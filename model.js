@@ -5,7 +5,7 @@ export const state = {
     pomodoroSegments: {
       course: 265,
       research: 98,
-      personalProjects: 142,
+      personalProjects: 200,
     },
   },
   dates: {
